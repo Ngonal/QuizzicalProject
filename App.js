@@ -22,9 +22,9 @@ function App() {
                     <img src="./images/credits/github.png" id="github"/>
                 </div>
                 <a href="https://github.com/Ngonal/QuizzicalProject">
-                <div className="dev-logo">
-                    <img src="./images/credits/linkedin.png" id="linkedin"/>
-                </div>
+                    <div className="dev-logo">
+                        <img src="./images/credits/linkedin.png" id="linkedin"/>
+                    </div>
                 </a>
             </footer>
         </div>
