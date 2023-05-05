@@ -13,7 +13,7 @@ function App() {
             <header></header>
             {!questionsLoading && takingStatus ? <QuizPage /> : <StartPage />}
             <footer id="dev-credit">
-                <h2 id="developed-by">Developefdgdfd by: </h2>
+                <h2 id="developed-by">Developed by: </h2>
                 <div id="dev-name">
                     <h2 id="ngonal">Ngonal</h2>
                 </div>
@@ -21,9 +21,11 @@ function App() {
                 <div className="dev-logo">
                     <img src="./images/credits/github.png" id="github"/>
                 </div>
+                <a href="https://github.com/Ngonal/QuizzicalProject">
                 <div className="dev-logo">
                     <img src="./images/credits/linkedin.png" id="linkedin"/>
                 </div>
+                </a>
             </footer>
         </div>
     )
