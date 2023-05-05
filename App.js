@@ -13,7 +13,7 @@ function App() {
             <header></header>
             {!questionsLoading && takingStatus ? <QuizPage /> : <StartPage />}
             <footer id="dev-credit">
-                <h2 id="developed-by">Developed by: </h2>
+                <h2 id="developed-by">Developefdgdfd by: </h2>
                 <div id="dev-name">
                     <h2 id="ngonal">Ngonal</h2>
                 </div>
