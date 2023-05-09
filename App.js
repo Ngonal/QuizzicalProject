@@ -24,7 +24,7 @@ function App() {
                     </div>
                 </a>
 
-                <a href="/">
+                <a href="https://www.linkedin.com/in/andrew-gager-21a0ba276/">
                     <div className="dev-logo">
                         <img src="./images/credits/linkedin.png" id="linkedin"/>
                     </div>
